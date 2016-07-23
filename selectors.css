@@ -1,0 +1,46 @@
+.header{
+	border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+.top-nav li{
+	list-style-type: none;
+	font-family: "Arial";
+	padding: 0 9px;
+    float: left;
+    margin: 10px 15px 0 15px;
+    cursor: pointer;
+}
+
+.active{
+	color: yellow;
+}
+
+.disabled{
+	color: grey;
+}
+
+.disabled-a{
+	color: purple;
+}
+
+.red{
+	color: red;
+}
+.blue{
+	color: blue;
+}
+.blue-bro{
+	background-color: blue;
+}
+.red-sis{
+	background-color: red;
+}
+input{
+	height: 25px;
+}
+.promo{
+	font-weight: bold;
+	color: gold;
+}
